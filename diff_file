@@ -1,0 +1,9 @@
+diff --git a/ficheiro_novo b/ficheiro_novo
+index f92af6c..4a0ed11 100644
+--- a/ficheiro_novo
++++ b/ficheiro_novo
+@@ -1 +1,4 @@
+ Este e o meu ficheiro inicial
++
++
++Minha segunda mudanca
